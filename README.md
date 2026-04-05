@@ -11,5 +11,5 @@ Currently building indie hybrid-casual prototypes and available for remote senio
 **What I care about:** Gameplay systems, performance optimization, live-ops, reusable architecture
 
 - 🌐 [Portfolio](https://ashutosh-kale.netlify.app/)
-- 📄 [Resume](link-to-your-updated-resume)
+- 📄 [Resume](https://drive.google.com/file/d/114osjtvp6-rs__iOFh8W-CHExYngrXcY/view)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ashutosh-kale-990687127/)
