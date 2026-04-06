@@ -1,19 +1,3 @@
-# Ashutosh Kale
-
-**Senior Unity Developer | 7+ Years | F2P Mobile | Gameplay Systems | Live Ops**
-
-Unity/C# engineer with 7+ years of experience shipping F2P mobile games and interactive products.  
-My strongest areas are gameplay systems, UI architecture, performance optimization, multiplayer flows, and live-ops/content pipelines.
-
-I’ve led development on shipped titles, worked on large-scale live products, and built systems meant to be maintainable, data-driven, and production-friendly.
-
-**Portfolio:** https://ashutosh-kale.netlify.app/  
-**Email:** kaleashutosh05@gmail.com  
-**GitHub:** https://github.com/Logan-ak47  
-**LinkedIn:** [Add your LinkedIn URL here]
-
----
-
 ## About
 
 I build Unity systems that are practical to ship and practical to maintain.
